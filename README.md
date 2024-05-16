@@ -1,5 +1,3 @@
-# Create the README content
-readme_content = """
 # Fake News Detection: Content and Context Analysis
 
 ## Overview
